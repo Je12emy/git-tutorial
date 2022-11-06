@@ -2,3 +2,4 @@ Lorem ipsum
 My name is Pyro
 I'm learning GIT
 I'm learning Java
+I know Python
